@@ -124,7 +124,4 @@ npm run setup:vision
 npm run dev
 ```
 
-Откройте адрес Vite, http://localhost:5173.
-### Sources and assets
-
-[Официальное руководство MediaPipe Pose Landmarker](https://ai.google.dev/edge/mediapipe/solutions/vision/pose_landmarker/web_js). Версия модели закреплена в setup-скрипте, пакеты — в lockfile. MediaPipe Tasks Vision — Apache-2.0, шрифты Fontsource содержат OFL-лицензии. SVG и процедурные звуки созданы для проекта; записи и кадры Naruto не используются.
+Откройте адрес http://localhost:5173.
